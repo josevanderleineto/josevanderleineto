@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudante de progação.
+- 🌱 Estudante de progamação.
 
 <div align="center">
   <a href="https://github.com/josevanderleineto">
