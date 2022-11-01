@@ -1,7 +1,7 @@
 ## Olá, sou o Vanderlei 👋
 * Hi there, I'm Vanderlei 👋
 
-#Sou um desenvolvedor web, front-end com objetivo de me tornar fullstack, fiz diversos cursos na área e atualmente estou estudando na Mais1Code, no projeto Reprogramado a quebrada, que tem como parceiro o Instituto NU (Nubank), irei passar por uma formação de dez meses. Sou Graduando em Biblioteconomia e Documentação na Universidade Federal da Bahia (UFBA), onde eu passei a me interessar muito pelo HTML semântico o que me fez estudar as técnicas de SEO. Busco uma oportunidade como desenvolvedor front-end de forma efetiva ou free-lancer.
+Sou um desenvolvedor web, front-end com objetivo de me tornar fullstack, fiz diversos cursos na área e atualmente estou estudando na Mais1Code, no projeto Reprogramado a quebrada, que tem como parceiro o Instituto NU (Nubank), irei passar por uma formação de dez meses. Sou Graduando em Biblioteconomia e Documentação na Universidade Federal da Bahia (UFBA), onde eu passei a me interessar muito pelo HTML semântico o que me fez estudar as técnicas de SEO. Busco uma oportunidade como desenvolvedor front-end de forma efetiva ou free-lancer.
 
 
 
