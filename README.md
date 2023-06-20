@@ -1,7 +1,5 @@
 ## Olá pessoal 👋
 
-<! --
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
 Aqui estão algumas idéias para você começar:
 
@@ -13,4 +11,5 @@ Aqui estão algumas idéias para você começar:
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
--->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
