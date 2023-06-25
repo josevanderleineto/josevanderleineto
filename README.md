@@ -2,7 +2,7 @@
 ## Desenvolvedor Web Front-End
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://bit.ly/3NKvVUk" alt="Vanderlei Neto" width="800px">
+  <img src="https://bit.ly/3NKvVUk" alt="Vanderlei Neto" width="100%">
 </div>
 
 
