@@ -10,7 +10,6 @@
 
 <div align="center">
 
-![Perfil Cartunizado](/perfil.jpeg )
 
 
  
@@ -28,6 +27,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanderleiNeto&layout=compact&langs_count=8&card_width=250" />
 </a>
+
+![Perfil Cartunizado](/perfil.jpeg )
+
 </div>
 
 <div align="center">
