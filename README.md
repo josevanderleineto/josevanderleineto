@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;"/>
 </h1>
 
 <h3 align="center">Wed Front-end Developer from Brazil</h3>
@@ -20,13 +20,11 @@
  
  </div>
  
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=VanderleiNeto" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VanderleiNeto&layout=compact&langs_count=8&card_width=100"/>
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VanderleiNeto&show_icons=true&count_private=true&hide_border=true&title_color=8C52FF&icon_color=8C52FF&text_color=8C52FF&bg_color=0d1117" alt="Vanderlei Neto github stats" /> 
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderleiNeto&layout=compact&hide_border=true&title_color=8C52FF&text_color=8C52FF&bg_color=0d1117"/>
+</div>
+
 
 
 </div>
@@ -45,7 +43,7 @@
 
 <div align="center">
 
-  ![Perfil Cartunizado](/perfil.jpeg)
+  ![Perfil Cartunizado](/perfil.jpeg )
 
 </div>
 
