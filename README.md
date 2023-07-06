@@ -1,8 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C52FF&height=120&section=header"/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;"/>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C52FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vanderlei+Neto;I'm+from+Brazil;I+Front-End+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <h3 align="center">Wed Front-end Developer from Brazil</h3>
 
@@ -50,11 +51,15 @@
 </div>
 
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+### Thanks for visiting! ✌️
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=8C52FF&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+%3A%29)
+
 
 <br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C52FF&height=120&section=header"/>
+
+
 
 
 
