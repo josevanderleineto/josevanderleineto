@@ -54,12 +54,10 @@
 ### Thanks for visiting! ✌️
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=8C52FF&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+%3A%29)
 
-
+<!--<p>-->
 <br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C52FF&height=120&section=header"/>
-
-
 
 
 
