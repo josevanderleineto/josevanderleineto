@@ -4,9 +4,11 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;" />
+
+  ![Capa](/capa.png)
+
 </h1>
 
-<h3 align="center">Web Front-End Developer</h3>
 
 <br/>
 
@@ -56,7 +58,6 @@
   <img width=46% align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=josevanderleineto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </br>
 
-  ![Texto alternativo](/perfil.jpeg)
 </div>
 
 
