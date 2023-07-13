@@ -1,13 +1,7 @@
-<p align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
-</p>
-</br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60cbf7&height=120&section=header"/>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josevanderleinto&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f97c8&height=120&section=header"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!+;+Front+End+ Web+Developer.+;+Welcome+to+my+repository!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;+Front+End+Web+Developer.;+Welcome+to+my+repository!"/>
 
   ![Capa](/capa.png)
 
@@ -22,8 +16,8 @@
 </p>
 
 <p align="center"> 
-  <a href="mailto:jose.vanderlei.nn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=60cbf7" />
+  <a href="mailto:jvn.neto@protonmail.com">
+    <img src="https://img.shields.io/badge/Protonmail-333333?style=for-the-badge&logo=protonmail&logoColor=6d4aff" />
   </a>
   <a href="https://www.linkedin.com/in/vanderlei-desenvolvedor-front-end/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -50,7 +44,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josevanderleineto&theme=react&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=josevanderleineto&theme=&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <hr/>
@@ -76,4 +70,4 @@
 </h3>
 
 <br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60cbf7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f97c8&height=120&section=header"/>
