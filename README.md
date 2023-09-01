@@ -33,7 +33,7 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript,css,tailwindcss,html,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,vite,react,bootstrap,vscode,figma,git" />
 </p>
 
 <hr/>
