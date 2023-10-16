@@ -1,9 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josevanderleinto&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f97c8&height=120&section=header"/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;+Front+End+Web+Developer.;+Welcome+to+my+repository!"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=284C83height=120&section=header" style="background: linear-gradient(to right, #284C83, #fff);">
 
-  ![Capa](/capa.png)
+<h1 align="center" style="color: white;">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;+Front+End+Web+Developer.;+Welcome+to+my+repository!"/>
+
+
+
+  ![Capa](/capa.jpg)
 
 </h1>
 
@@ -32,8 +35,8 @@
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,css,tailwindcss,html,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,vite,react,bootstrap,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,javascript,css,react,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwindcss,github,vscode,figma,git,vite,mongodb,nodejs" />
 </p>
 
 <hr/>
@@ -70,4 +73,4 @@
 </h3>
 
 <br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f97c8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=284C83height=120&section=header" style="background: linear-gradient(to right, #284C83, #fff);">
