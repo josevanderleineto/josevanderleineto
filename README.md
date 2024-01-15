@@ -57,10 +57,10 @@
   <img width=49% src="https://streak-stats.demolab.com/?user=josevanderleineto&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=46% src="https://github-readme-stats-salesp07.vercel.app/api?username=josevanderleineto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/josevandeleineto/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/josevanderleineto/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevadnderleineto&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
