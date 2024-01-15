@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josevanderleinto&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=284C83height=120&section=header" style="background: linear-gradient(to right, #284C83, #fff);">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 
 <h1 align="center" style="color: white;">
      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanderlei+Neto!;+Front+End+Web+Developer.;+Welcome+to+my+repository!"/>
@@ -67,4 +67,4 @@
 </h3>
 
 <br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=284C83height=120&section=header" style="background: linear-gradient(to right, #284C83, #fff);">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
