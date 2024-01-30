@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/vanderlei-desenvolvedor-front-end/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://vanderleidev.vercel.app/" target="_blank">
+  <a href="https://www.vanderleinto.tech/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-60cbf7?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </p>
@@ -52,14 +52,18 @@
 
 <hr/>
 
-## ⚡ Stats ⚡
-<div align="center">  
-  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josevanderleineto&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vanderlei Neto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevanderleineto&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<h2 align="center" style="color: #00bfbf;">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="41%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=josevanderleineto&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api?username=josevanderleineto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="50%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=josevanderleineto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josevanderleineto&bg_color=000000&color=00bfbf&line=00bfbf&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josevanderleineto&bg_color=000000&color=00bfbf&line=00bfbf&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="center">
