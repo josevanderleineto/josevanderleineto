@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/vanderlei-desenvolvedor-front-end/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.vanderleinto.tech/" target="_blank">
+  <a href="https://www.vanderleineto.tech/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-60cbf7?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </p>
