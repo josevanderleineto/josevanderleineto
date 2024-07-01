@@ -19,7 +19,7 @@
 </p>
 
 <p align="center"> 
-  <a href="mailto:jvn.neto@protonmail.com">
+  <a href="mailto:jv.nascimentoneto@proton.me">
     <img src="https://img.shields.io/badge/Protonmail-333333?style=for-the-badge&logo=protonmail&logoColor=6d4aff" />
   </a>
   <a href="https://www.linkedin.com/in/josevanderleineto/" target="_blank">
