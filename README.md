@@ -22,7 +22,7 @@
   <a href="mailto:jvn.neto@protonmail.com">
     <img src="https://img.shields.io/badge/Protonmail-333333?style=for-the-badge&logo=protonmail&logoColor=6d4aff" />
   </a>
-  <a href="https://www.linkedin.com/in/vanderlei-desenvolvedor-front-end/" target="_blank">
+  <a href="https://www.linkedin.com/in/josevanderleineto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.vanderleineto.tech/" target="_blank">
