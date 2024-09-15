@@ -60,7 +60,8 @@
   <img width="41%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=josevanderleineto&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api?username=josevanderleineto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevanderleineto&layout=compact&theme=react&border_radius=10" alt="top languages" />
+     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevanderleineto&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
   </a>
 </div>
 
